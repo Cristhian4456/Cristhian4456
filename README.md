@@ -14,7 +14,8 @@ I am a Bachelor of Computer Science graduate with a strong interest in **Network
 | ![Cisco](https://img.shields.io/badge/Cisco-Configuration-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue?style=flat-square) | ![Linux](https://img.shields.io/badge/Linux-Admin-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white) |
 | ![SDN](https://img.shields.io/badge/Network-SDN-blueviolet?style=flat-square) | ![Snort](https://img.shields.io/badge/Snort-IDS%2FIPS-red?style=flat-square) | ![Nginx](https://img.shields.io/badge/Nginx-Server-009639?style=flat-square&logo=nginx&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-Struct-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | ![Wireshark](https://img.shields.io/badge/Wireshark-Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![Firewall](https://img.shields.io/badge/Security-Hardening-success?style=flat-square) | ![Apache](https://img.shields.io/badge/Apache-Server-D22128?style=flat-square&logo=apache&logoColor=white) | ![Javascript](https://img.shields.io/badge/Javascript-Dynamic-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| ![Mikrotik](https://img.shields.io/badge/Mikrotik-Configuration-black?style=flat-square&logo=Mikrotik&color=%23000000) | | | ![CSS](https://img.shields.io/badge/CSS-Style-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| ![Mikrotik](https://img.shields.io/badge/Mikrotik-Configuration-black?style=flat-square&logo=Mikrotik&color=%23000000) | | ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=flat-square&logo=MySQL&color=%23F29111)
+ | ![CSS](https://img.shields.io/badge/CSS-Style-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | | | | ![PHP](https://img.shields.io/badge/PHP-Scripting-blue?style=flat-square&logo=PHP&color=%23306998) |
 
 
