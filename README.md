@@ -1,4 +1,6 @@
-# Hi there, I'm Cristhian Abimayu Wibowo 👋
+# Hi there, I'm Cristhian Abimayu Wibowo 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNmZTFsZjVyb3B2eGplM2owNmZsZGp3ZXplMDlzZ3JlbTR3Y3prZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nkff3KmdbVKmI/giphy.gif" width="1000" height="300">
+
 ### Network Engineer | Cyber Security Enthusiast
 
 I am a Bachelor of Computer Science graduate with a strong interest in **Network Infrastructure** and **Cyber ​​Security**.
@@ -17,33 +19,21 @@ I am a Bachelor of Computer Science graduate with a strong interest in **Network
 | ![Mikrotik](https://img.shields.io/badge/Mikrotik-Configuration-black?style=flat-square&logo=Mikrotik&color=%23000000) | | ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=flat-square&logo=MySQL&color=%23F29111) | ![CSS](https://img.shields.io/badge/CSS-Style-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | | | | ![PHP](https://img.shields.io/badge/PHP-Scripting-blue?style=flat-square&logo=PHP&color=%23306998) |
 
-
 ---
 
-### ⚔️ Learning Bug Bounty
+### ⚔️ Currently Learning
 I am currently studying **Bug Bounty** especially on **domain assets** and have my own methodology for doing Bug Bounty:
 
 1.  🕵️‍♂️ **Reconnaissance:** Collect target information passively and actively, using Subfinder, Katana, crt.sh, ffuf, LinkFinder, Httpx, Wappalyzer tools.
 2.  🔓 **Exploitation:** Running attacks based on discovered vulnerabilities. I execute attacks cautiously for fear of violating policies, and I typically don't use any active tools, just **Burpsuite**.
 3.  🚩 **Post-Exploitation:** Create concept documentation (PoC) and impact analysis (privilege escalation).
 
+![HackerOne](https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white) ![bugCrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white) ![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
+
 ---
 
 
 ### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/cristhian-abimayu-wibowo-a7b092208/)
-* [Email](mailto:abimayuwibowo@gmail.com)
-<!--
-**Cristhian4456/Cristhian4456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/cristhian-abimayu-wibowo-a7b092208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI2ZGo0dnJsNDgxeno3bnJ5bTZvOWR4eWVhMzVxNmFxeDF0aXpmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eODLcLD0Hcx7W/giphy.gif" width="1000">
