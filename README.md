@@ -22,7 +22,7 @@ I am a Bachelor of Computer Science graduate with a strong interest in **Network
 ---
 
 ### ⚔️ Currently Learning
-I am currently studying **Bug Bounty** especially on **domain assets** and have my own methodology for doing Bug Bounty:
+I am currently learning **Bug Bounty** especially on **domain assets** and have my own methodology for doing Bug Bounty:
 
 1.  🕵️‍♂️ **Reconnaissance:** Collect target information passively and actively, using Subfinder, Katana, crt.sh, ffuf, LinkFinder, Httpx, Wappalyzer tools.
 2.  🔓 **Exploitation:** Running attacks based on discovered vulnerabilities. I execute attacks cautiously for fear of violating policies, and I typically don't use any active tools, just **Burpsuite**.
