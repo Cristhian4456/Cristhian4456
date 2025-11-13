@@ -3,7 +3,7 @@
 
 I am a Bachelor of Computer Science graduate with a strong interest in **Network Infrastructure** and **Cyber ​​Security**.
 
-![banner](img/banner.png)
+![banner](img/banner1.png)
 
 ---
 
